@@ -1,0 +1,7 @@
+ibm-watsonx-ai
+langchain
+langchain_ibm
+langchain_community
+chromadb
+gradio
+PyPDF2
